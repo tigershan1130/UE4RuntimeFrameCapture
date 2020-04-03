@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TsScreenOutput",
+	"Description": "Output video and screenshots",
+	"Category": "Other",
+	"CreatedBy": "Tiger Shan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TsScreenOutput",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
